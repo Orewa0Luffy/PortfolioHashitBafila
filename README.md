@@ -1,3 +1,6 @@
+![Logo](/images/pf.png)
+
+
 # Amine Portfolio Showcase 💻
 
 Welcome to **Amine's Portfolio Showcase**!  
